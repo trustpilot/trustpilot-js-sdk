@@ -22,7 +22,7 @@
     "test": "mocha --require ts-node/register ./spec/*.spec.ts"
   },
   "dependencies": {
-    "axios": "^1.6.8"
+    "axios": "^1.7.8"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
